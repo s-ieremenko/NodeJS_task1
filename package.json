@@ -1,0 +1,26 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "NodeJS_task1",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^16.0.1",
+    "nodemon": "^2.0.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc",
+    "start": "nodemon ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-ieremenko/NodeJS_task1.git"
+  },
+  "author": "s-ieremenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-ieremenko/NodeJS_task1/issues"
+  },
+  "homepage": "https://github.com/s-ieremenko/NodeJS_task1#readme"
+}
